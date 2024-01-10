@@ -1,1 +1,7 @@
-# Timeseries-sunspots
+## Timeseries-sunspots
+
+# Data Cleaning
+
+# Training Data
+
+# Model

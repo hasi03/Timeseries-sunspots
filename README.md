@@ -29,29 +29,22 @@ As a start, I used Deep learning to train a model. I used LSTM, Convolutional ne
   <td>
 
 - scipy
-- Item 2
-- Item 3
+- matplotlib
 
   </td>
   <td>
 
 - tensorflow
-- Item 5
-- Item 6
 
   </td>
   <td>
 
 - seaborn
-- Item 8
-- Item 9
 
   </td>
   <td>
 
 - pandas
-- Item 11
-- Item 12
 
   </td>
 </tr>

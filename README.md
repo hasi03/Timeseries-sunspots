@@ -15,9 +15,9 @@ The data as a csv file is in the folder **"Data"**
 2. !mkdir ~/.kaggle
 3. copy the kaggle.json file to .kaggle folder
 !cp json/file/path .kaggle/file/path
-4.Download the dataset using API key
-!kaggle datasets download -d abhinand05/daily-sun-spot-data-1818-to-2019
-5.Unzip the dataset
+4.Download the dataset using API key. ··
+!kaggle datasets download -d abhinand05/daily-sun-spot-data-1818-to-2019.
+5.Unzip the dataset. ··
 !unzip daily-sun-spot-data-1818-to-2019.zip -d data/
 
 ## Model Architecture

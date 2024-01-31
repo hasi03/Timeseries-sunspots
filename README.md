@@ -23,6 +23,11 @@ The data as a csv file is in the folder **"Data"**
 
 ## Model Architecture
 There are a lot of algorthms that can be used for time series forecasting. 
+
+<figure>
+  <img src="images/Time Series Flow chart.png" alt="Alt text" style="width:70%; height: 50%;">
+</figure>
+
 I implemented these algorithms using tensorflow and compared their performance.
 
 ## Libraries Used 📚

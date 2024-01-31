@@ -22,7 +22,8 @@ The data as a csv file is in the folder **"Data"**
 !unzip daily-sun-spot-data-1818-to-2019.zip -d data/
 
 ## Model Architecture
-As a start, I used Deep learning to train a model. I used LSTM, Convolutional neural network (CNN) and LSTM.
+There are a lot of algorthms that can be used for time series forecasting. 
+I implemented these algorithms using tensorflow and compared their performance.
 
 ## Libraries Used 📚
 <table>
